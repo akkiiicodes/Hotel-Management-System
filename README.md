@@ -1,6 +1,7 @@
 # Hotel-Management-System
-Overview
-Quick Stay Pro is a comprehensive and user-friendly Hotel Management System that streamlines various hotel functions, including reservations, check-ins, check-outs, room assignments, billing, and more. This README provides an overview of the project, installation instructions, and important information for developers and users.
+#Overview
+
+Hotel Management System is a comprehensive and user-friendlthat streamlines various hotel functions, including reservations, check-ins, check-outs, room assignments, billing, and more. This README provides an overview of the project, installation instructions, and important information for developers and users.
 
 Table of Contents
 Features
@@ -12,7 +13,8 @@ Check-In and Check-Out: Streamlined processes for guest check-ins and check-outs
 Room Assignment: Assign and reassign rooms to guests.
 Billing: Generate bills for guests.
 User-friendly Interface: Intuitive and responsive UI for staff and guests.
-Technologies Used
+
+#Technologies Used
 Servlets
 JSP (Java Server Pages)
 HTML
@@ -20,40 +22,36 @@ CSS
 JavaScript (JS)
 Java
 Hibernate with JPA
-Prerequisites
-Before you start, make sure you have the following tools and dependencies installed:
 
+#Prerequisites
+Before you start, make sure you have the following tools and dependencies installed:
 Java Development Kit (JDK)
 Apache Tomcat
 MySQL
-Usage
-Visit the Application
 
+Usage
+1.Visit the Application
 Open your web browser and navigate to the application's URL. Typically, you can access it at http://localhost:8080/quick-stay-pro (or the appropriate URL where your Tomcat server is running).
 
-Sign Up (If You're a New User)
-
+2.Sign Up (If You're a New User)
 If you're a new user, you need to sign up to use the system. To sign up:
-
 Click on the "Sign Up" or "Create Account" link on the login page.
 Fill in the required information, which may include your name, email, username, and password.
 Complete the registration process as guided.
 Your registration details may be subject to approval by the respective administrator.
 
-Log In
-
+3.Log In
 Once Signup process is completed, log in with your credentials. The login information includes a username and password. These credentials should be provided that are created during the signup process.
 
-Explore Features
-
+4.Explore Features
 Once you're logged in, you can start exploring the various features of the Hotel Management System. These features may include:
-
 Reservation Management: Create, modify, and manage reservations for guests.
 Check-In and Check-Out: Efficiently handle guest check-ins and check-outs.
 Room Assignment: Assign or reassign rooms to guests.
 Billing: Generate bills for guest stays.
 User-Friendly Interface: Utilize the intuitive and responsive user interface designed for both staff and guests.
-Entity Descriptions
+
+#Entity Descriptions
 Admin
 Responsibilities:
 Manages Managers.
